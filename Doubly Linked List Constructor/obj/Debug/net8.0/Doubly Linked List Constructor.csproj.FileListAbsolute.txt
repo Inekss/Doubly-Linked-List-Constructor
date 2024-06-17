@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\bin\Debug\net8.0\Doubly Linked List Constructor.exe
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\bin\Debug\net8.0\Doubly Linked List Constructor.deps.json
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\bin\Debug\net8.0\Doubly Linked List Constructor.runtimeconfig.json
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\bin\Debug\net8.0\Doubly Linked List Constructor.dll
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\bin\Debug\net8.0\Doubly Linked List Constructor.pdb
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.AssemblyInfo.cs
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.dll
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\refint\Doubly Linked List Constructor.dll
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.pdb
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\Doubly Linked List Constructor.genruntimeconfig.cache
+C:\Users\admin\source\repos\Doubly Linked List Constructor\Doubly Linked List Constructor\obj\Debug\net8.0\ref\Doubly Linked List Constructor.dll

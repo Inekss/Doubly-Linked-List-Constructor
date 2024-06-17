@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Doubly Linked List Constructor/1.0.0": {
+        "runtime": {
+          "Doubly Linked List Constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doubly Linked List Constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
